@@ -1,0 +1,84 @@
+.div-info {
+    display: inline;
+    float: left;
+    padding: 50px;
+}
+
+.box {
+    height: 560px;
+    display: inline-block;
+    background-color: black;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.box1 input {
+    padding-left: 10px;
+    width: 350px;
+    height: 80px;
+    display: block;
+    border: 1px;
+    background-color: black;
+    color: #fff;
+    font-size: 50px;
+    text-align: end;
+    outline: none;
+}
+
+.box1 .button-ci,
+.button-plus,
+.button-foiz {
+    width: 80px;
+    border: 0;
+    font-size: 50px;
+    border-radius: 80px;
+    background-color: rgb(165, 165, 165);
+    color: black;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.box1 .button-d,
+.button-k,
+.button-m,
+.button-p,
+.button-t {
+    width: 80px;
+    background-color: rgb(254, 149, 5);
+    border: 0;
+    font-size: 50px;
+    border-radius: 80px;
+    color: black;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.button-s {
+    width: 80px;
+    border: 0;
+    font-size: 50px;
+    border-radius: 80px;
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.zero {
+    width: 175px;
+    border: 0;
+    font-size: 50px;
+    border-radius: 80px;
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
